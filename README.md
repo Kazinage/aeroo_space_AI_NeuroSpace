@@ -45,7 +45,7 @@
 - `outputs/ca3_flaring_watch_map_ru.html`
 - 
 Кликните по ссылке
-https://kazinage.github.io/aeroo_space_AI_NeuroSpace/
+[https://kazinage.github.io/aeroo_space_AI_NeuroSpace/](https://kazinage.github.io/aeroo_space_AI_NeuroSpace/)
 
 ---
 
