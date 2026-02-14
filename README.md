@@ -14,7 +14,8 @@
    - `eog_global_flare_survey_YYYY_country_summary.csv`
 3. Запусти ячейки сверху вниз - все артефакты автоматически сохраняются в `outputs/`.
 
-**Colab:** [Open in Colab](PASTE_COLAB_LINK_HERE)
+**Colab:** [Open in Colab](https://colab.research.google.com/github/kazinage/aeroo_space_AI_NeuroSpace/blob/main/notebooks/Aero_space_competition.ipynb)
+
 
 ### Вариант B: просто посмотреть демо
 Открой `outputs/ca3_flaring_watch_map_ru.html` в браузере (двойной клик / Open with browser).
